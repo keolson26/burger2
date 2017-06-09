@@ -1,0 +1,20 @@
+#newSpace {
+	background-color: #93C54B;
+}
+
+#devourSpace {
+	background-color: #C54BAE;
+}
+
+#addSpace {
+	background-color: #FFE599;
+}
+
+form {
+	padding: 10px;
+}
+
+textarea {
+	height: 50px;
+}
+
